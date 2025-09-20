@@ -1,0 +1,20 @@
+{
+  "songs": [
+    ["super bell hill", "mario-cat", [231, 155, 0]]
+  ],
+
+  "weekCharacters": [
+    "mario-cat",
+    "bf-3dw",
+    "gf"
+  ],
+  "weekBackground": "bellhill",
+
+  "storyName": "READY FOR ADVENTURE!",
+  "weekBefore": "tutorial",
+  "weekName": "Super Bell Hill",
+  "startUnlocked": true,
+
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}

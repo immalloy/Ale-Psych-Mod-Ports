@@ -1,0 +1,53 @@
+{
+  "animations": [
+    {
+      "offsets": [45, -310],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "name": "idle",
+      "indices": []
+    },
+    {
+      "offsets": [30, -274],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "name": "left",
+      "indices": []
+    },
+    {
+      "offsets": [-81, -357],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "name": "down",
+      "indices": []
+    },
+    {
+      "offsets": [-37, -226],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "name": "up",
+      "indices": []
+    },
+    {
+      "offsets": [21, -297],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "name": "right",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/catmario",
+  "position": [-130, -100],
+  "healthicon": "mario-cat",
+  "flip_x": false,
+  "healthbar_colors": [231, 155, 0],
+  "camera_position": [50, 320],
+  "sing_duration": 6.0,
+  "scale": 1
+}

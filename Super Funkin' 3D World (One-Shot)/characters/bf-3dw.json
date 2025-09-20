@@ -1,0 +1,87 @@
+{
+  "animations": [
+    {
+      "offsets": [-5, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "name": "idle0",
+      "indices": []
+    },
+    {
+      "offsets": [-5, 14],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "name": "right0",
+      "indices": []
+    },
+    {
+      "offsets": [-25, -21],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "name": "down0",
+      "indices": []
+    },
+    {
+      "offsets": [-65, 74],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "name": "up0",
+      "indices": []
+    },
+    {
+      "offsets": [-68, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "name": "left0",
+      "indices": []
+    },
+
+    /* Optional “-alt” variants (engine won’t call these by default unless your code does) */
+    {
+      "offsets": [-5, 14],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT-alt",
+      "name": "right0",
+      "indices": []
+    },
+    {
+      "offsets": [-25, -21],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN-alt",
+      "name": "down0",
+      "indices": []
+    },
+    {
+      "offsets": [-65, 74],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP-alt",
+      "name": "up0",
+      "indices": []
+    },
+    {
+      "offsets": [-68, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT-alt",
+      "name": "left0",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/bf-3dw",
+  "position": [-20, 30],
+  "healthicon": "bf",
+  "flip_x": true,
+  "healthbar_colors": [0, 161, 255],
+  "camera_position": [0, 0],
+  "sing_duration": 6.0,
+  "scale": 1
+}

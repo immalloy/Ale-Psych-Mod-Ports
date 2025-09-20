@@ -1,0 +1,21 @@
+{
+  "songs": [
+    ["machina erect remix", "CG_MNM", [93, 54, 217]],
+    ["tapestop", "CG_MNM", [93, 54, 217]]
+  ],
+
+  "weekCharacters": [
+    "dad",
+    "bf",
+    "gf"
+  ],
+  "weekBackground": "stage",
+
+  "storyName": "Custom Week",
+  "weekBefore": "tutorial",
+  "weekName": "Week X",
+  "startUnlocked": true,
+
+  "hideStoryMode": true,
+  "hideFreeplay": false
+}

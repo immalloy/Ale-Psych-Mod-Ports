@@ -1,0 +1,27 @@
+{
+	"developerMode": false,
+	"mobileDebug": false,
+	"scriptsHotReloading": false,
+
+	"initialState": "TitleState",
+	"freeplayState": "FreeplayState",
+	"storyMenuState": "StoryMenuState",
+	"masterEditorMenu": "MasterEditorMenu",
+	"mainMenuState": "MainMenuState",
+
+	"loadDefaultWeeks": false,
+
+	"pauseSubState": "PauseSubState",
+	"gameOverScreen": "GameOverSubState",
+	"transition": "FadeTransition",
+
+	"title": "Friday Night Funkin' MixNMatch: ALE Psych",
+	"icon": "appIcon",
+
+	"width": 1280,
+	"height": 720,
+    
+	"bpm": 102,
+
+	"discordID": "1309982575368077416"
+}

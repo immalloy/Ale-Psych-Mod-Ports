@@ -1,0 +1,23 @@
+{
+    "categories": [
+        {
+            "name": "Port Credits",
+            "developers": [
+                {
+                    "name": "Malloy",
+                    "icon": "malloyboi",
+                    "link": "https://x.com/ArtByHenry2010",
+                    "description": "Made Port",
+                    "color": "b37c50"
+                },
+				{
+                    "name": "AlejoGDOfficial",
+                    "icon": "alejo",
+                    "link": "https://www.youtube.com/@alejogdofficial",
+                    "description": "Helped With Stages and Events",
+                    "color": "5457B0"
+                }
+            ]
+        }
+    ]
+}

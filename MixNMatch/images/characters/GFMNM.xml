@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFMNM.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF_MNM0000" x="2" y="2" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0001" x="1347" y="2" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0002" x="2692" y="2" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0003" x="4037" y="2" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0004" x="5382" y="2" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0005" x="6727" y="2" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0006" x="2" y="1215" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0007" x="1347" y="1215" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0008" x="2692" y="1215" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0009" x="4037" y="1215" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0010" x="5382" y="1215" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0011" x="6727" y="1215" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0012" x="2" y="2428" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0013" x="1347" y="2428" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0014" x="2692" y="2428" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0015" x="4037" y="2428" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0016" x="5382" y="2428" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0017" x="6727" y="2428" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0018" x="2" y="3641" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0019" x="1347" y="3641" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0020" x="2692" y="3641" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0021" x="4037" y="3641" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0022" x="5382" y="3641" width="1343" height="1211"/>
+	<SubTexture name="GF_MNM0023" x="6727" y="3641" width="1343" height="1211"/>
+</TextureAtlas>

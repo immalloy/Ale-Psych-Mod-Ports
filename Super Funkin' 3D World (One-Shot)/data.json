@@ -1,0 +1,27 @@
+{
+	"developerMode": false,
+	"mobileDebug": false,
+	"scriptsHotReloading": true,
+
+	"initialState": "TitleState",
+	"freeplayState": "FreeplayState",
+	"storyMenuState": "StoryMenuState",
+	"masterEditorMenu": "MasterEditorMenu",
+	"mainMenuState": "MainMenuState",
+
+	"loadDefaultWeeks": false,
+
+	"pauseSubState": "PauseSubState",
+	"gameOverScreen": "GameOverSubState",
+	"transition": "FadeTransition",
+
+	"title": "Super Funkin' 3D World (One-Shot): ALE Psych Port",
+	"icon": "appIcon",
+
+	"width": 1280,
+	"height": 720,
+    
+	"bpm": 102,
+
+	"discordID": "1309982575368077416"
+}
